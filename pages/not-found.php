@@ -1,0 +1,1 @@
+<main id="main" class="message-page"><p class="eyebrow">404</p><h1>Un autre chemin vous attend.</h1><a class="button" href="<?=e(route('shop'))?>">Découvrir la collection</a></main>
